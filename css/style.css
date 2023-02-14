@@ -1,0 +1,234 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+.hero{
+    background-image: url(../images/2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+.nav-link {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-right: 20px;
+}
+.nav-link:hover{
+    color: #fff;
+}
+.btn-take{
+    color: #fff;
+    background: #cf3535;
+    font-size: 16px;
+    line-height: 14px;
+    padding: 14px 25px;
+    border-radius: 50px;
+}
+.btn-take:hover{
+    color: #fff;
+    background: #e92a2a;
+}
+
+.hero-iteam{
+    align-items: center;
+}
+.hero-iteam h4{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 34px;
+    margin-bottom: 38px;
+    padding-top: 250px;
+}
+.hero-iteam span{
+    display: block;
+    height: 5px;
+    width: 105px;
+    background: #cf3535;
+    text-align: center;
+    margin: auto;
+}
+.hero-iteam h1{
+    color: #fff;
+    font-size: 75px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.icon{
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 50px;
+}
+
+.icon i{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.btn-learn{
+    text-align: center;
+    color: #fff;
+    background: #cf3535;
+    font-size: 16px;
+    line-height: 14px;
+    padding: 14px 25px;
+    border-radius: 50px;
+}
+.btn-learn:hover{
+    color: #fff;
+    background: #e92a2a;
+}
+.about-us{
+    padding: 100px 0;
+}
+.about-us h4{
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.about-us h1{
+    color: black;
+    font-size: 48px;
+}
+.about-us p{
+    color: black;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 45px;
+}
+.p1 p{
+    color: black;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+.services {
+    background-image: url(../images/1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 100px 0;
+    color: #fff;
+    min-height: 100vh;
+}
+.services h4{
+    font-size: 20px;
+    margin-bottom: 12px;
+    font-weight: 500;
+}
+.services h2{
+    font-size: 30px;
+    font-weight: 400;
+}
+.services span{
+    display: block;
+    background: #fff;
+    height: 1px;
+    width: 100%;
+    margin: 20px 0px;
+}
+.services p{
+    font-size: 17px;
+    font-weight: 300;
+    padding: 5px 0px;
+}
+.right-content h1 {
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+    font-size: 37px;
+}
+.content{
+    padding: 100px 0px;
+}
+.content-head  h5{
+    color: black;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.content-head  h2{
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    /* margin-bottom: 20px; */
+}
+.content-iteam h5{font-size: 25px;font-weight: 600;margin: 15px 0;}
+.content-iteam p{
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.con-h5 h5 {
+    font-size: 25px;
+    font-weight: 600;
+}
+.btn-learn2{
+    text-align: center;
+    color: #fff;
+    background: #cf3535;
+    font-size: 16px;
+    line-height: 14px;
+    padding: 14px 25px;
+    border-radius: 50px;
+}
+.btn-learn2:hover{
+    color: #fff;
+    background: #e92a2a;
+}
+.about-end{
+    background: #011627;
+    color: #fff;
+    padding: 100px 0;
+}
+.about-end h3{
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 38px;
+}
+.about-end p{
+    font-size: 16px;
+    font-weight: 300;
+}
+.p2 p{
+    margin-top: 50px;
+}
+
+.about-end ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.about-end ul li a{
+    text-decoration: none;
+    line-height: 31px;
+    color: #fff;
+    font-weight: 300;
+}
+.about-end ul li a:hover{
+    color: #cf3535;
+}
+footer{
+    background: #011627;
+    color: #fff;
+}
+footer p{
+    margin: 0;
+    font-size: 15px;
+    font-weight: 200;
+}
+
